@@ -11,8 +11,6 @@ Following releases are included:
  * Release 80 dated 2021.10
  * Release 81 dated 2022.01
  * Release 82 dated 2022.05
- * Release 83 dated 2022.08
- * Release 84 dated 2022.10
 
 
 Code which generates these files can be found here: https://github.com/UniCourt/cic-beautify-state-codes
@@ -23,7 +21,7 @@ The Standardised HTMLs can be found here: https://unicourt.github.io/cic-code-wy
 
  ###### Other state Codes:
 
- **Alaska (AK):** https://unicourt.github.io/cic-code-ak
+  **Alaska (AK):** https://unicourt.github.io/cic-code-ak
 
  **Arkansas (AR):** https://unicourt.github.io/cic-code-ar
 
